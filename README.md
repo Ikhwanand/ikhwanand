@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aldi and I'm a AI Engineer, from Sumbawa, West Nusa Tenggara.</h2>
+<h2 align="left">Hi 👋! My name is Aldi and I'm a AI Engineer, from Sumbawa, West Nusa Tenggara 🇲🇨.</h2>
 
 ###
 <div align="center">
